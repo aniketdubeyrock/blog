@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .env
+GIT_PUSH_INSTRUCTIONS.md
 
 # Editor directories and files
 .vscode/*
